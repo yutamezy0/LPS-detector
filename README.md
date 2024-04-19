@@ -17,4 +17,4 @@ conda activate lpsd
 ## Related paper
 Amezawa, Y., Uchide, T., Shiina, T., Ogata, J., Fukayama, S., and Kuroda, H. "LPS-detector: Convolutional Neural Network Based Automatic Detection Model for Later Phase in S coda" (in prep.)
 
-[![DOI](https://zenodo.org/badge/yutamezy0.svg)](https://zenodo.org/badge/latestdoi/yutamezy0)
+[![DOI](https://zenodo.org/badge/788858272.svg)](https://zenodo.org/doi/10.5281/zenodo.10996506)
