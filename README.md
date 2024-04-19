@@ -27,5 +27,9 @@ conda env create -f lpsd.yml
 
 2. Change the path for input seismograms in lpsdetector.ipynb and run the code.
 
-## Related paper
+## Reference
+Reference publication for LPS-detector:
 [1] Amezawa, Y., Uchide, T., Shiina, T., Ogata, J., Fukayama, S., and Kuroda, H. "LPS-detector: Convolutional Neural Network Based Automatic Detection Model for Later Phase in S coda" (in prep.)
+
+## Acknowledgement
+The initial version of the LPS-detector has been developed under the support of the MEXT Project for Seismology toward Research Innovation with Data of Earthquake (STAR-E) Grant Number JPJ010217.
