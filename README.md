@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/788858272.svg)](https://zenodo.org/doi/10.5281/zenodo.10996506)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10997703.svg)](https://doi.org/10.5281/zenodo.10997703)
+
 # LPS-Detector
 A CNN-based automatic detection model for Later Phase in S coda (LPS), which was observed at near-source stations of earthquakes occurring in the upper crust.  
 ## Installing
