@@ -19,8 +19,10 @@ conda env create -f lpsd.yml
 :  Jupyter Notebook for operating the LPS-detector
 ### lpsdetector_modelweight.h5
 :  Trained model parameters 
-### list_label.txt
+### training_list_label.txt
 :  Event list with LPS label (1: with LPS / 0: without LPS) for training dataset used in <sup>[1]</sup> Amezawa et al. (in prep)
+### prediction_list.txt
+:  Event list with the result of novel LPS detection using the LPS-detector in <sup>[1]</sup> Amezawa et al. (in prep)
 ## Usage
 1. Prepare waveform files in SAC format for the two horizontal components of the velocity seismograms.\
 (Default: independent directories for N-S and E-W component seismograms under the waveform directory)
