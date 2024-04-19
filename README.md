@@ -22,13 +22,13 @@ conda env create -f lpsd.yml
 ### list_label.txt
 :  Event list with LPS label (1: with LPS / 0: without LPS) for training dataset used in <sup>[1]</sup> Amezawa et al. (in prep)
 ## Usage
-1. Prepare waveform files in SAC format for the two horizontal components of the velocity seismograms.
+1. Prepare waveform files in SAC format for the two horizontal components of the velocity seismograms.\
 (Default: independent directories for N-S and E-W component seismograms under the waveform directory)
 
 2. Change the path for input seismograms in lpsdetector.ipynb and run the code.
 
 ## Reference
-Reference publication for LPS-detector:
+Reference publication for LPS-detector:\
 [1] Amezawa, Y., Uchide, T., Shiina, T., Ogata, J., Fukayama, S., and Kuroda, H. "LPS-detector: Convolutional Neural Network Based Automatic Detection Model for Later Phase in S coda" (in prep.)
 
 ## Acknowledgement
